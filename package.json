@@ -1,0 +1,26 @@
+{
+  "name": "underscore.behaviour",
+  "description": "Behaviours (execution limiters) extension for Underscore.js javascript library",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yuchi/underscore.behaviour.git"
+  },
+  "keywords": [
+    "underscore",
+    "limiter",
+	"behaviour",
+	"behaviour"
+  ],
+  "author": "Pier Paolo Ramon <ramonpierre@gmail.com>",
+  "main": "./lib/underscore.behaviour",
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "underscore"; "1.x"
+  }
+}
