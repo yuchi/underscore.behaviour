@@ -10,4 +10,6 @@ extension.
 
 [u]: http://documentcloud.github.com/underscore/
 
-Currently it's just a placeholder, wait for updates.
+Currently only a few methods have been implemented. I'll create a
+wishlist here. Feel free to fork and add features, I will process
+them in matter of 2 days, I swear!
